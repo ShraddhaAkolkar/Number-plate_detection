@@ -14,3 +14,10 @@ This project detects Indian vehicle number plates using YOLOv8 and extracts text
 - OpenCV
 - Ultralytics YOLOv8
 - Tesseract OCR
+
+## 🚀 FastAPI Backend
+
+Run API server:
+
+```bash
+uvicorn main:app --reload
