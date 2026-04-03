@@ -9,3 +9,6 @@ pillow
 pytesseract==0.3.10
 torch==2.0.1
 torchvision==0.15.2
+fastapi
+uvicorn
+python-multipart
